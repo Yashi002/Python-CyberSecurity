@@ -1,0 +1,109 @@
+Enter the city name: Indore
+-------------------------------------------------------------
+Weather Stats for - INDORE  || 22 Jun 2021 | 11:40:58 AM
+-------------------------------------------------------------
+Current temperature is: 30.98 deg C
+Current weather desc  : broken clouds
+Current Humidity      : 53 %
+Current wind speed    : 5.97 kmph
+
+
+Enter the city name: Ranchi 
+-------------------------------------------------------------
+Weather Stats for - RANCHI  || 22 Jun 2021 | 11:44:50 AM
+-------------------------------------------------------------
+Current temperature is: 31.06 deg C
+Current weather desc  : haze
+Current Humidity      : 66 %
+Current wind speed    : 1.03 kmph
+
+
+yashi@yashi:~/Desktop/python$ python3 weather1.py
+Enter the city name: Bangalore
+-------------------------------------------------------------
+Weather Stats for - BANGALORE  || 22 Jun 2021 | 11:45:01 AM
+-------------------------------------------------------------
+Current temperature is: 27.39 deg C
+Current weather desc  : scattered clouds
+Current Humidity      : 58 %
+Current wind speed    : 3.09 kmph
+
+
+yashi@yashi:~/Desktop/python$ python3 weather1.py
+Enter the city name: Hyderabad
+-------------------------------------------------------------
+Weather Stats for - HYDERABAD  || 22 Jun 2021 | 11:45:09 AM
+-------------------------------------------------------------
+Current temperature is: 29.28 deg C
+Current weather desc  : broken clouds
+Current Humidity      : 59 %
+Current wind speed    : 5.14 kmph
+
+
+yashi@yashi:~/Desktop/python$ python3 weather1.py
+Enter the city name: Mohali
+-------------------------------------------------------------
+Weather Stats for - MOHALI  || 22 Jun 2021 | 11:45:24 AM
+-------------------------------------------------------------
+Current temperature is: 39.35 deg C
+Current weather desc  : clear sky
+Current Humidity      : 21 %
+Current wind speed    : 4.76 kmph
+
+
+yashi@yashi:~/Desktop/python$ python3 weather1.py
+Enter the city name: Gwalior
+-------------------------------------------------------------
+Weather Stats for - GWALIOR  || 22 Jun 2021 | 11:45:39 AM
+-------------------------------------------------------------
+Current temperature is: 38.55 deg C
+Current weather desc  : clear sky
+Current Humidity      : 28 %
+Current wind speed    : 0.64 kmph
+
+
+yashi@yashi:~/Desktop/python$ python3 weather1.py
+Enter the city name: Seoul
+-------------------------------------------------------------
+Weather Stats for - SEOUL  || 22 Jun 2021 | 11:46:22 AM
+-------------------------------------------------------------
+Current temperature is: 25.95 deg C
+Current weather desc  : moderate rain
+Current Humidity      : 61 %
+Current wind speed    : 2.57 kmph
+
+
+yashi@yashi:~/Desktop/python$ python3 weather1.py
+Enter the city name: Gwangju
+-------------------------------------------------------------
+Weather Stats for - GWANGJU  || 22 Jun 2021 | 11:46:32 AM
+-------------------------------------------------------------
+Current temperature is: 26.76 deg C
+Current weather desc  : few clouds
+Current Humidity      : 42 %
+Current wind speed    : 4.35 kmph
+
+
+yashi@yashi:~/Desktop/python$ python3 weather1.py
+Enter the city name: Busan
+-------------------------------------------------------------
+Weather Stats for - BUSAN  || 22 Jun 2021 | 11:46:40 AM
+-------------------------------------------------------------
+Current temperature is: 26.08 deg C
+Current weather desc  : few clouds
+Current Humidity      : 73 %
+Current wind speed    : 5.82 kmph
+
+
+yashi@yashi:~/Desktop/python$ python3 weather1.py
+Enter the city name: Santa clara
+-------------------------------------------------------------
+Weather Stats for - SANTA CLARA  || 22 Jun 2021 | 11:47:06 AM
+-------------------------------------------------------------
+Current temperature is: 23.81 deg C
+Current weather desc  : few clouds
+Current Humidity      : 83 %
+Current wind speed    : 1.54 kmph
+
+
+
