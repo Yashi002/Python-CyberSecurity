@@ -1,2 +1,2 @@
-# ShapeAI_Python-CyberSecurity
+# Python-CyberSecurity
 Fetching weather details of different places by generating api key by Open Weather Map
